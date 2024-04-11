@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "name": "John gentle",
+      "id": "e4567823dsvdvv",
+      "salary": "800,000",
+      "status": false,
+      "bannerImag": "https://res.cloudinary.com/dbrub0d6r/image/upload/v1712663746/3_jbinws.png",
+      "userImg": "https://res.cloudinary.com/dbrub0d6r/image/upload/v1712663745/user1_ymcbfm.png"
+    },
+    {
+      "name": "Ade enos",
+      "id": "dwdvwdvd21390",
+      "salary": "20,000",
+      "status": false,
+      "bannerImag": "https://res.cloudinary.com/dbrub0d6r/image/upload/v1712663746/4_o4bylb.png",
+      "userImg": "https://res.cloudinary.com/dbrub0d6r/image/upload/v1712663745/user2_qklfqz.png"
+    },
+    {
+      "id": "99ce",
+      "name": "John Nigga",
+      "salary": "800,000",
+      "status": false,
+      "bannerImag": "https://res.cloudinary.com/dbrub0d6r/image/upload/v1712663746/3_jbinws.png",
+      "userImg": "https://res.cloudinary.com/dbrub0d6r/image/upload/v1712663745/user1_ymcbfm.png"
+    }
+  ]
+}
